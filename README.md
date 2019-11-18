@@ -1,42 +1,51 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi desenvolvido com o aplicativo Create React App.
 
-## Available Scripts
+O projeto está hospedado no site do github, usuario [cuba900](https://github.com/cuba900/simples-banck)
 
-In the project directory, you can run:
+O projeto foi criado para enfrentar um desafio, eu não sabia nada sobre React, nessas duas semanas, aprendi muitas coisas, apesar do desafio que era para mim, eu trabalho de segunda a sexta, estudo os dias sabados no curso para desenvolvedores de sites na escola [Toti](https://toti.site/), e assisto terça e quinta à noite o curso CCNA da Cisco, projeto da [Caritasrj](http://www.caritas-rj.org.br/) em parceria con [Cisco Networking Academy](https://www.netacad.com/pt-br), além dos deveres da família, mas react chamou minha atenção,tanto que, no meu projeto final do curso de [Toti](https://toti.site/), estou trabalhando com react.
+
+Peço desculpas por não ter completado o desafio em todas as suas dimensões, agradeço a oportunidade que [simples](https://contasimples.com/) me deu, graças a esse desafio conheci react, angular e vue,ferramentas que são muito práticas, uma vez que você as domina, continuarei estudando...
+
+Como desafio pessoal, continuarei estudando mais sobre como react e desenvolvendo este App.
+
+## Scripts disponíveis
+
+No diretório do projeto, você pode executar:
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Executa o aplicativo no modo de desenvolvimento.<br />
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+A página será recarregada se você fizer edições.<br />
+Você também verá erros no console.
 
 ### `yarn test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Inicia o corredor de teste no modo de observação interativo.<br />
+Consulte a seção sobre a execução de testes [running tests](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Cria o aplicativo para produção na pasta de compilação. `build`.<br />
+Ele agrupa corretamente o React no modo de produção e otimiza a construção para obter o melhor desempenho.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+A compilação é minificada e os nomes de arquivos incluem os hashes.<br />
+Seu aplicativo está pronto para ser implantado!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Veja a seção sobre [deployment](https://facebook.github.io/create-react-app/docs/deployment) Para maiores informações.
 
 ### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Nota: esta é uma operação unidirecional. Depois de `eject`, você não pode voltar!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Se você não estiver satisfeito com a ferramenta de criação e as opções de configuração, poderá `eject` a qualquer momento. Este comando removerá a dependência de compilação única do seu projeto.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (Webpack, Babel, ESLint, etc) diretamente no seu projeto, para que você tenha controle total sobre eles. Todos os comandos, exceto o `eject`, ainda funcionarão, mas apontarão para os scripts copiados para que você possa ajustá-los. Neste ponto, você está por sua conta.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Você nunca precisa usar `eject`. O conjunto de recursos selecionados é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que essa ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronta para isso.
 
-## Learn More
+
+
 
 

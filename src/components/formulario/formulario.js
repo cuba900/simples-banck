@@ -40,8 +40,9 @@ function Formulario () {
          <form>
          <h1>Internet Banking</h1>
          <h1> Autônomos e Pequenas Empresas</h1>
-         
+         <label>
          <input className={"cnpj " + cnpjValida} onChange={validaCnpj} placeholder="cnpj 14 caracteres" required ref={cnpjInput} />
+         </label>
          <input className={"senha " + senhaValida} type="password" onChange={validaSenha} placeholder="senha 6 caracteres" required ref={senhaInput}/>
          <button className="btn-form" >Proximo</button>
          </form>

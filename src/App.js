@@ -7,7 +7,7 @@ import Formulario from './components/formulario/formulario.js';
 import instagram from './Redes Sociais/instagram-logo.png';
 import linkedin from './Redes Sociais/linkedin-logo.png';
 import facebook from './Redes Sociais/facebook-logo.png';
-import simples from './Redes Sociais/simplesicon.ico';
+// import simples from './Redes Sociais/simplesicon.ico';
 
 
 function simplesApp() {
@@ -49,7 +49,7 @@ function simplesApp() {
 
         <a className="facebook" target="new" title="facebook" href="https://www.facebook.com/contasimplesBR/"><img src={facebook} onmouseover="this.width=41;this.height=41;" onmouseout="this.width=40;this.height=40;" width="40" height="40" alt="facebook-logo"/></a>
 
-        <a className="simples" target="new" title="simples" href="https://contasimples.com/"><img src={simples} onmouseover="this.width=41;this.height=41;" onmouseout="this.width=40;this.height=40;" width="40" height="40" alt="youtube-logo"/></a>
+        <a className="simples" target="new" title="simples" href="https://contasimples.com/"><img src={logo} onmouseover="this.width=41;this.height=41;" onmouseout="this.width=40;this.height=40;" width="40" height="40" alt="youtube-logo"/></a>
 
       </div>
         </section>
