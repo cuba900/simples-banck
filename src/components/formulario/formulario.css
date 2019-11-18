@@ -1,0 +1,76 @@
+
+.container-form {
+    text-align: center;
+
+}
+
+h1 {
+    color: #333333;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    opacity: .7;
+}
+
+input {
+    width: 160px;
+    height: 20px;
+    font-family:'Poppins', sans-serif;
+}
+.cnpj.error {
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+.senha.error {
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+.cnpj.sucesso {
+    border: 1px solid green;
+}
+
+.senha.sucesso {
+    border: 1px solid green;
+}
+
+.btn-form {
+   cursor: pointer;
+   background-color: #84e208fa;
+   font-family:  'Poppins', sans-serif;
+   width: 120px;
+   color: #333;
+}
+
+.btn-cadastro {
+    text-decoration: none;
+    color: #333;
+    font-family: 'Poppins', sans-serif;
+}
+
+@media screen and (max-width: 1200px) {
+    .container-form {
+        text-align: center;
+    }
+
+    .btn-form {
+        cursor: pointer;
+        background-color: #84e208fa;
+        font-family:  'Poppins', sans-serif;
+        width: 120px;
+        color: #333;
+     }
+     
+     .btn-cadastro {
+         text-decoration: none;
+         color: #333;
+         font-family: 'Poppins', sans-serif;
+     }
+
+     input {
+        width: 160px;
+        height: 20px;
+        font-family:'Poppins', sans-serif;
+    }
+
+}
