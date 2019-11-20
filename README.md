@@ -1,6 +1,6 @@
 Este projeto foi desenvolvido com o aplicativo Create React App.
 
-O projeto está hospedado no site do github, usuario [cuba900](https://github.com/cuba900/simples-banck)
+O projeto está hospedado no site do github, usuario cuba900 version [1.0](https://github.com/cuba900/simples-banck), e [2.0](https://github.com/cuba900/simples-bank2.0).
 
 O projeto foi criado para enfrentar um desafio, eu não sabia nada sobre React, nessas duas semanas, aprendi muitas coisas, apesar do desafio que era para mim, eu trabalho de segunda a sexta, estudo os dias sabados no curso para desenvolvedores de sites na escola [Toti](https://toti.site/), e assisto terça e quinta à noite o curso CCNA da Cisco, projeto da [Caritasrj](http://www.caritas-rj.org.br/) em parceria con [Cisco Networking Academy](https://www.netacad.com/pt-br), além dos deveres da família, mas react chamou minha atenção,tanto que, no meu projeto final do curso de [Toti](https://toti.site/), estou trabalhando com react.
 
